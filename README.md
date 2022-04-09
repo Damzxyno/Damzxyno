@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Damzxyno
-- 👀 I’m interested in acquiring programming skills
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to find someone to engage me and help me learn fast
+- 👀 I’m a Java Developer, with expertise in the use of Servlet, SpringFramework and Springboot.
+- 💞️ I’m relatively a fast learner.
 - 📫 How to reach me, whatsapp? +2348173201622
 
 <!---
